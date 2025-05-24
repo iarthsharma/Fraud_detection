@@ -1,0 +1,10 @@
+### fraud_detection_portal/backend/requirements.txt
+
+fastapi
+uvicorn
+pandas
+scikit-learn
+xgboost
+shap
+joblib
+psycopg2-binary
