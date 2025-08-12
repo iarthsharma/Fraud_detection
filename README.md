@@ -22,5 +22,3 @@ An interactive web application to predict and explain credit card fraud using an
 
 ## Data Source
 [Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-
-
